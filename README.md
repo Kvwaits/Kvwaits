@@ -1,4 +1,4 @@
-# Hi, I'm Kevon!
+# Hello, I'm Ke'Vontae!
 
 I'm a first-year Computer Science major at TCU, Class of 2030, from Dallas, Texas.
 
