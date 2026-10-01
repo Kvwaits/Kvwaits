@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Kevon!
+
+I'm a first-year Computer Science major at TCU, Class of 2030, from Dallas, Texas.
+
+## What I'm Interested In
+
+I'm interested in quantum computing, software development, and video game development. I'm especially curious about how technology can be used to create new experiences and solve difficult problems.
+
+## What I Want to Build
+
+I'd like to create my own video game and grow it into something as large and successful as one of my favorite games, Genshin Impact. I'm excited to keep learning and developing the skills to make that goal possible.
 
 <!--
 **Kvwaits/Kvwaits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
